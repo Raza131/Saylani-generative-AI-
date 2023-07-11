@@ -31,7 +31,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
     <td align='center'>
-        <img src="https://www.linkpicture.com/q/download.png width="80">
+        <img src="https://www.linkpicture.com/q/download_335.png width="80">
     </td>
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
@@ -50,7 +50,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/Raza-6673981b5/"><img src="https://img.shields.io/badge/-Raza%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Raza-6673981b5/"><img src="https://img.shields.io/badge/-Raza%20khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ARKtech72455@gmail.com"><img src="https://img.shields.io/badge/ ARKtech72455@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/Raza2980/"><img src="https://img.shields.io/badge/-@Raza2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
